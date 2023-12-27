@@ -25,6 +25,7 @@ I have attached screenshots as a zip file with this project.
 ### Prerequisites
 
 - [Raylib](https://www.raylib.com/) must be installed on your system. Follow the instructions on the Raylib website for installation.
+- [visualStudio](https://visualstudio.microsoft.com/) must be installed on your system. Follow the instruction on the Visual Studio website.
 
 ### Building and Running
 
