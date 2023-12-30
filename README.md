@@ -19,11 +19,11 @@ The maze genertated in this project was first developed in java script using p5 
 - **Restart Option:** After winning the game, the player has the option to restart and play again.
 
 ## Screenshots
-Start Screen
+- **Start Screen**
 ![image](https://github.com/abubakrhashim/2D_Maze_Game/assets/114753240/a211ab1c-caa6-4588-a24b-04c5bf7e11c1)
-Maze Generation 
+- **Maze Generation** 
 ![image](https://github.com/abubakrhashim/2D_Maze_Game/assets/114753240/4acec01f-5500-455b-98cd-5ff5cc92fe36)
-Restart Screen
+- **Restart Screen**
 ![image](https://github.com/abubakrhashim/2D_Maze_Game/assets/114753240/7b2b7e52-038c-438f-8a0d-128c08f19e58)
 
 ## Prerequsites
