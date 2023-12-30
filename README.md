@@ -19,10 +19,10 @@ The maze genertated in this project was first developed in java script using p5 
 - **Restart Option:** After winning the game, the player has the option to restart and play again.
 
 ## Screenshots
-
-
+"C:\Users\raoab\OneDrive\Desktop\oke.mp4"
+## Prerequsites
 - [Raylib](https://www.raylib.com/) must be installed on your system. Follow the instructions on the Raylib website for installation.
 - [visualStudio](https://visualstudio.microsoft.com/) must be installed on your system. Follow the instruction on the Visual Studio website.
 
-### Building and Running
+
       
