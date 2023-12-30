@@ -4,6 +4,7 @@
 ## Introduction
 
 This project is a simple maze game implemented in C++ using the Raylib library. The game generates a random maze and allows the player to navigate through it to reach the destination cell.
+The maze genertated in this project was first developed in java script using p5 Library, on an online editior, The algorithm used to generate the maze was "Depth First Seacrh", I took help from the video series of [TheCodeTrain](https://www.youtube.com/watch?v=HyK_Q5rrcr4) on youtube,this is a 4 part series , this tutorial is in Java script.
 
 ## Features
 
@@ -18,18 +19,10 @@ This project is a simple maze game implemented in C++ using the Raylib library. 
 - **Restart Option:** After winning the game, the player has the option to restart and play again.
 
 ## Screenshots
-I have attached screenshots as a zip file with this project.
 
-## Getting Started
-
-### Prerequisites
 
 - [Raylib](https://www.raylib.com/) must be installed on your system. Follow the instructions on the Raylib website for installation.
 - [visualStudio](https://visualstudio.microsoft.com/) must be installed on your system. Follow the instruction on the Visual Studio website.
 
 ### Building and Running
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/abubakrhashim/2D_Maze_Game.git
+      
